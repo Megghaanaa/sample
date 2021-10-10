@@ -19,8 +19,15 @@
     color: black;
   
   }
+  button
+  {
+      font-size: medium;
+      padding: 8px;
+  }
   button:hover {
-    background-color: aliceblue;
+    background-color: rgb(134, 20, 138);
+    font-size:large;
+    box-shadow:2cm ;
   }
   ul {
     float: right;
